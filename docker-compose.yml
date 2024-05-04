@@ -1,0 +1,9 @@
+services:
+  ruby-sandbox:
+    build:
+      context: .
+    container_name: ruby-sandbox
+    working_dir: /app
+    volumes:
+      - .:/app
+    tty: true
