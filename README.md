@@ -1,1 +1,1 @@
-This is Ruby container environment for testing use.
+This is a Ruby container environment for testing use.
